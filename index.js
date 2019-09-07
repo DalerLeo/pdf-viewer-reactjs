@@ -1,3 +1,1 @@
-import PDFViewer from './dist/index'
-
-export default PDFViewer
+export { default } from './dist/index'
